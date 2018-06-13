@@ -1,0 +1,23 @@
+video{
+    width: 100%;
+    display: block;
+}
+#zoneintro{
+    position: relative;
+}
+#textintro{
+    position: absolute;
+    top: -490px;
+    left: 0;
+    text-align: center;
+    font-size: 70px;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.5);
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+
+}
